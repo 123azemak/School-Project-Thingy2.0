@@ -11471,26 +11471,32 @@ header.masthead h1, header.masthead .h1 {
 
 
 .banana{
-  width: 120px;
+  width: 130px;
   height: 100px;
+  align-content: center;
 }
 .pizza{
-width: 120px;
+width: 130px;
 height: 100px;
+align-content: center;
 }
 .rice{
-width: 120px;
+width: 130px;
 height: 100px;
+align-content: center;
 }
 .reduced{
-width: 120px;
+width: 130px;
 height: 100px;
+align-content: center;
 }
 .tots{
-width: 120px;
+width: 130px;
 height: 100px;
+align-content: center;
 }
 .meat{
-width: 120px;
+width: 130px;
 height: 100px;
+align-content: center;
 }
