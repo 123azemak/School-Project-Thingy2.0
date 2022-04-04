@@ -300,7 +300,6 @@ figure {
 img,
 svg {
   vertical-align: middle;
-  align-content: center !important;
 }
 
 table {
@@ -11472,32 +11471,26 @@ header.masthead h1, header.masthead .h1 {
 
 
 .banana{
-  width: 50%;
+  width: 120px;
   height: 100px;
-  align-content: center;
 }
 .pizza{
-width: 50%;
+width: 120px;
 height: 100px;
-align-content: center;
 }
 .rice{
-width: 50%;
+width: 120px;
 height: 100px;
-align-content: center;
 }
 .reduced{
-width: 50%;
+width: 120px;
 height: 100px;
-align-content: center;
 }
 .tots{
-width: 50%;
+width: 120px;
 height: 100px;
-align-content: center;
 }
 .meat{
-width: 50%;
+width: 120px;
 height: 100px;
-align-content: center;
 }
