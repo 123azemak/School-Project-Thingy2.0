@@ -50,8 +50,8 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
-
-document.getElementById("banana").addEventListener("click", function(){
+// javascript momemnt down below
+document.getElementById("banana").addEventListener('click', function(){
    document.getElementById("orderText").textContent = "You selected an order of: Banana Special";
 });
 document.getElementById("pizza").addEventListener("click", function(){
