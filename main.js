@@ -21,8 +21,8 @@ document.getElementById("meat").addEventListener("click", function(){
 // clear text fields when submit is clicked https://2kh4k.csb.app/ copy from this code perhaps
 // also maybe change css to make the hover color different so it looks cool
 document.getElementById("submit").addEventListener("click", function(){
-  document.getElementById("name").textContent = " ";
-  document.getElementById("email").textContent = " ";
-  document.getElementById("phone").textContent = " ";
-  document.getElementById("message").textContent = " ";
+  document.getElementById("name").value = '';
+  document.getElementById("email").value = '';
+  document.getElementById("phone").value = '';
+  document.getElementById("message").value = '';
 });
